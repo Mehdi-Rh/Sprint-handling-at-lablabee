@@ -20,4 +20,4 @@ New release oriented dev: a sprint can include multiple releases.
 - Product team needs quick releases and waiting for the end of the sprint isn't optimal, solution: split releases from sprint, which means a sprint can have multiple releases, a release can start in sprint N and finish in sprint N+1.
 - Demos were a little bit weird so we added internal demos
 - Communication between web dev team and other teams about issues was random => web support rotation.
-- 
+- Sprint retro to track issues and find solutions and generate actions
