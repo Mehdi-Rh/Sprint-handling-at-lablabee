@@ -1,12 +1,15 @@
 # Sprint-handling-at-lablabee
 Sprint duration: 3 weeks.
+
 w1: 
 - day 1: sprint palnning
 - day 3: mid-week sync
 - day 5: mid-sprint
+
 w2:
 - day 3: mid-week 2
 - day 5 : sprint review + staging release
+
 w3:
 - day 1: Demo
 - day 4: prod release
